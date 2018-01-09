@@ -2,7 +2,7 @@
 
 This is a minimal but elegant plugin for user-friendly and cross-browser file upload form elements. The plugin should be compatible to all major browsers including Internet Explorer 7, 8 and 9.
 
-Example: [http://davidstutz.de/demo/bootstrap-file-upload/](http://davidstutz.de/demo/bootstrap-file-upload/)
+Example: [http://davidstutz.de/bootstrap-file-upload/](http://davidstutz.de/bootstrap-file-upload/)
 
 ## License
 
