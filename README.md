@@ -2,13 +2,13 @@
 
 This is a minimal but elegant plugin for user-friendly and cross-browser file upload form elements. The plugin should be compatible to all major browsers including Internet Explorer 7, 8 and 9.
 
-Example: [http://davidstutz.github.io/bootstrap-file-upload/](http://davidstutz.github.io/bootstrap-file-upload/)
+Example: [http://davidstutz.de/demo/bootstrap-file-upload/](http://davidstutz.de/demo/bootstrap-file-upload/)
 
 ## License
 
 **Apache License, Version 2.0**
 
-Copyright (c) 2016 David Stutz
+Copyright (c) 2016 -2018 David Stutz
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
@@ -16,7 +16,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 **BSD 3-Clause License**
 
-Copyright (c) 2016 David Stutz
+Copyright (c) 2016 - 2018 David Stutz
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
