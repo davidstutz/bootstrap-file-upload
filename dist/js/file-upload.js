@@ -46,6 +46,7 @@
 
     var FileUpload = function (element) {
         this.element = $(element);
+        var defaultText = this.element.text();
         
         var label = this.element.text();
         var input = $('input', this.element);
@@ -58,10 +59,15 @@
         
         this.element.on('change', ':file', function() {
             var input = $(this);
-            //var count = input.get(0).files ? input.get(0).files.length : 1;
-            var label = input.val().replace(/\\/g, '/').replace(/.*\//, '');
-            
-            $('.file-upload-text', $(this).parent('label')).text(label);
+            console.log(input.val());
+            if (input.val()) {
+                var label = input.val().replace(/\\/g, '/').replace(/.*\//, '');
+                $('.file-upload-text', $(this).parent('label')).text(label);
+            }
+            else {
+
+                $('.file-upload-text', $(this).parent('label')).text(defaultText);
+            }
         });
     };
 
