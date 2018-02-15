@@ -59,7 +59,7 @@
         
         this.element.on('change', ':file', function() {
             var input = $(this);
-            console.log(input.val());
+            
             if (input.val()) {
                 var label = input.val().replace(/\\/g, '/').replace(/.*\//, '');
                 $('.file-upload-text', $(this).parent('label')).text(label);
