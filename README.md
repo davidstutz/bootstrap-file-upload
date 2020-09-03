@@ -4,7 +4,7 @@ This is a minimal but elegant plugin for user-friendly and cross-browser file up
 
 Consider [donating](http://davidstutz.de/donate/) to support development.
 
-Example: [https://github.com/davidstutz/bootstrap-file-upload/](https://github.com/davidstutz/bootstrap-file-upload/)
+Example: [https://davidstutz.github.io/bootstrap-file-upload/](https://davidstutz.github.io/bootstrap-file-upload/)
 
 ## License
 
