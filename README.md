@@ -4,13 +4,13 @@ This is a minimal but elegant plugin for user-friendly and cross-browser file up
 
 Consider [donating](http://davidstutz.de/donate/) to support development.
 
-Example: [http://davidstutz.de/bootstrap-file-upload/](http://davidstutz.de/bootstrap-file-upload/)
+Example: [https://github.com/davidstutz/bootstrap-file-upload/](https://github.com/davidstutz/bootstrap-file-upload/)
 
 ## License
 
 **Apache License, Version 2.0**
 
-Copyright (c) 2016 -2018 David Stutz
+Copyright (c) 2016 -2020 David Stutz
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 
@@ -18,7 +18,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 **BSD 3-Clause License**
 
-Copyright (c) 2016 - 2018 David Stutz
+Copyright (c) 2016 - 2020 David Stutz
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
